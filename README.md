@@ -6,13 +6,13 @@ USAGE
 
 
 1 - add "pnumber.js" to your index html file
-2- use tag <code><pnumber num="YOUR NUMBER"></pnumber></code>
+2- use tag &lt;pnumber num="YOUR NUMBER"&60;&lt;/pnumber&60;
 
 exp : 
 
-   <h1>
-      my number is <code><pnumber num="2022"></pnumber></code>
-   </h1>
+   &lt;h1&60;
+      my number is &lt;pnumber num="2022"&60;&lt;/pnumber&60;
+  &lt;/h1&60;
 
 ------------------------------------------------------------------
 
