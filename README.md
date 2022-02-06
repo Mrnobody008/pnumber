@@ -8,7 +8,7 @@ a simple script to convert numbers into Persian numbers
 1 - add "&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;" to your head of index.html file <br>
 2 - add "pnumber.js" to your index html file <br>
 or
-add this to the buttom of your index page and above body tag :
+add this to the bottom of your index page and above body tag :
      
      &lt;script src="https://cdn.jsdelivr.net/gh/Mrnobody008/pnumber/pnumber.js"&gt;&lt;/script&gt;
 
