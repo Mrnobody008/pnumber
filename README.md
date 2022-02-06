@@ -5,7 +5,7 @@ a simple script to convert numbers into Persian numbers
 # INSTALLATION
 
 
-1 - add "&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;" to your head of index.html file <br>
+1 - add "&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script&gt;" to your head of index.html file <br>
 2 - add "pnumber.js" to your index html file <br>
 or
 add this to the bottom of your index page and above body tag :
