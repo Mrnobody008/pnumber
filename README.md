@@ -17,7 +17,9 @@ add this to the bottom of your index page and above body tag :
 
 use tag &lt;pnumber num="YOUR NUMBER"&gt;&lt;/pnumber&gt; to convert your number to persian form
 
+
 Example : 
+
 
    &lt;h1&gt;
       my number is &lt;pnumber num="2022"&gt;&lt;/pnumber&gt;
