@@ -1,5 +1,5 @@
 # pnumber
-a simple script to convert numbers into Persian numbers
+a simple script to convert numbers into Persian numbers in HTML
 
 -------------------------------------------------------------------
 # INSTALLATION
