@@ -10,7 +10,7 @@ a simple script to convert numbers into Persian numbers
 or
 add this to the bottom of your index page and above body tag :
      
-     &lt;script src="https://cdn.jsdelivr.net/gh/Mrnobody008/pnumber/pnumber.js"&gt;&lt;/script&gt;
+     "&lt;script src="https://cdn.jsdelivr.net/gh/Mrnobody008/pnumber/pnumber.js"&gt;&lt;/script&gt;"
 
 -------------------------------------------------------------------
 # USAGE
