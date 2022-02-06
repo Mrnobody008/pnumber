@@ -9,6 +9,7 @@ a simple script to convert numbers into Persian numbers
 2 - add "pnumber.js" to your index html file <br>
 or
 add this to the bottom of your index page and above body tag :
+     
      <script src="https://cdn.jsdelivr.net/gh/Mrnobody008/pnumber/pnumber.js"></script>
 
 -------------------------------------------------------------------
